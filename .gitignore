@@ -2,7 +2,4 @@ config.bat
 node_modules
 
 # Never commit secrets or editor auto-run tasks
-.env
-.env.local
 .env.*.local
-.vscode/
